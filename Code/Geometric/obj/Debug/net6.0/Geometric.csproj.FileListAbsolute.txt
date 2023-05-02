@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\bin\Debug\net6.0\Geometric.exe
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\bin\Debug\net6.0\Geometric.deps.json
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\bin\Debug\net6.0\Geometric.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\bin\Debug\net6.0\Geometric.dll
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\bin\Debug\net6.0\Geometric.pdb
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.dll
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\refint\Geometric.dll
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.pdb
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\Geometric.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\prac-09\Code\Geometric\obj\Debug\net6.0\ref\Geometric.dll
